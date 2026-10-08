@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "$schema": "./node_modules/oxlint/configuration_schema.json",
   "plugins": ["react", "oxc"],
@@ -6,3 +7,13 @@
     "react/only-export-components": ["warn", { "allowConstantExport": true }]
   }
 }
+=======
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["react", "oxc"],
+  "rules": {
+    "react/rules-of-hooks": "error",
+    "react/only-export-components": ["warn", { "allowConstantExport": true }]
+  }
+}
+>>>>>>> 67953cc8b94ed89fa49feb0092c4d156a0f1ad36
