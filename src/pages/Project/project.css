@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-/* =========================================================
-   COMPONENTS.CSS
-   Style cho từng "khối giao diện" tái sử dụng nhiều lần:
-   Stat Card, Project Card, Kanban Board, Task Card, Modal,
-   Dropdown, Table/List, Filter Bar, Pagination, Empty State,
-   Calendar, Activity Timeline, Progress Bar, Tabs, Toast...
-   ========================================================= */
 
-/* =========================
-   STAT CARD (Dashboard)
-   ========================================================= */
 .stat-card {
     display: flex;
     align-items: center;

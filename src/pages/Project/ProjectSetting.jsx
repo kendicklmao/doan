@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useEffect, useState, useMemo } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import Header from './../../components/layout/Header/Header.jsx';
